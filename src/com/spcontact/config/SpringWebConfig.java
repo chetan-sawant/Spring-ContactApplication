@@ -10,7 +10,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import org.springframework.web.servlet.view.JstlView;
 
-@SuppressWarnings("deprecation")
+
 @Configuration
 @ComponentScan(basePackages = {"com.spcontact"})
 @EnableWebMvc
